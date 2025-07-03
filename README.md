@@ -1,6 +1,10 @@
 # Financial-Market-Prediction
 
-This project builds a predictive model for **S&P 500 returns** using a combination of **technical indicators**, **macro-economic data**, and multiple machine learning algorithms including **Linear Regression**, **XGBoost**, and a **Recurrent Neural Network (LSTM)**.
+This project builds a predictive model for **S&P 500 returns** using a combination of **technical indicators**, **macro-economic data**, and multiple machine learning algorithms. For the regression task, it employs **Linear Regression**, **XGBoost**, and a **Long Short-Term Memory** (LSTM).  For the classification task, it utilizes both a **Forward Neural Network**(FNN) and **Long Short-Term Memory** (LSTM) network.
+
+## Regression Approach:
+
+
 
 ---
 
